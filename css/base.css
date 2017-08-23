@@ -1,0 +1,17 @@
+*{
+	margin: 0;    /* body  */
+	padding: 0;   /* 列表标签 */
+    list-style: none;  /* 列表标签 */
+    text-decoration: none; /* a标签身上有下划线 */
+   /*  字母用none， 数值用0 */
+   font-style: normal; 
+   font-weight: normal;
+   -webkit-user-select:none;
+   user-select: none;
+   
+}
+
+img{
+	width: 100%;
+	height: 100%;
+}
